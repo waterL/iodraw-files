@@ -88,6 +88,11 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.838;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-18" target="pPu3sISUKSSeYUQf8tjX-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-40" value="队列完成(reset)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pPu3sISUKSSeYUQf8tjX-36">
+          <mxGeometry x="-0.1158" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-18" value="COMPLETED&lt;div&gt;完成(移出&lt;span style=&quot;background-color: initial;&quot;&gt;PENDING&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="800" width="120" height="60" as="geometry" />
         </mxCell>
