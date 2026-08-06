@@ -43,8 +43,8 @@
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-16" value="...新增场景" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="829" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-9" value="状态机&lt;div&gt;SetDataQueueCoordinator&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19" y="380" width="150" height="60" as="geometry" />
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-9" value="初始状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
