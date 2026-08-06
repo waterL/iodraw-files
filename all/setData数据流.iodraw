@@ -88,7 +88,7 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-18" value="PROCESSING&lt;div&gt;处理中&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-22" value="PENDING&lt;div&gt;待处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-22" value="FAILED&lt;div&gt;失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
