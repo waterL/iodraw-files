@@ -13,7 +13,7 @@
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMacgJBJh2qS4Xa9UJVJ-2" target="wMacgJBJh2qS4Xa9UJVJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wMacgJBJh2qS4Xa9UJVJ-2" value="队列引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wMacgJBJh2qS4Xa9UJVJ-2" value="队列引擎&lt;div&gt;SetDataQueue&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="229" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMacgJBJh2qS4Xa9UJVJ-4" target="wMacgJBJh2qS4Xa9UJVJ-8">
