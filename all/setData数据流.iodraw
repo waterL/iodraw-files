@@ -91,8 +91,18 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-22" value="FAILED&lt;div&gt;失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-30" target="pPu3sISUKSSeYUQf8tjX-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-30" target="pPu3sISUKSSeYUQf8tjX-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="700" />
+              <mxPoint x="160" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pPu3sISUKSSeYUQf8tjX-32">
+          <mxGeometry x="-0.2316" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;canRetry?&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;能否重试&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="660" width="80" height="80" as="geometry" />
