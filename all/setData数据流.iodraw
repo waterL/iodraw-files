@@ -76,6 +76,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pPu3sISUKSSeYUQf8tjX-23">
+          <mxGeometry x="0.4625" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-13" value="PENDING&lt;div&gt;待处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -100,6 +105,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="109" y="630" as="sourcePoint" />
             <mxPoint x="159" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="630" />
+              <mxPoint x="170" y="575" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
