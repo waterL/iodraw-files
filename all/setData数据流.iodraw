@@ -176,6 +176,9 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-52" value="&lt;b&gt;priorityOrder&lt;/b&gt;&lt;div&gt;&lt;b&gt;优先级配置&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-55" target="pPu3sISUKSSeYUQf8tjX-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-55" value="&lt;b&gt;空队列&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="890" width="120" height="60" as="geometry" />
         </mxCell>
@@ -184,6 +187,9 @@
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-59" value="&lt;b&gt;findNext&lt;/b&gt;&lt;div&gt;&lt;b&gt;查找下一轮ID&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-61" value="&lt;b&gt;队列执行完成&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
