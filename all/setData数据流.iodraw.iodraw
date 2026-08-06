@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-1" value="状态机&lt;div&gt;SetDataQueueCoordinator&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9" y="250" width="150" height="60" as="geometry" />
+          <mxGeometry x="9" y="120" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMacgJBJh2qS4Xa9UJVJ-2" target="wMacgJBJh2qS4Xa9UJVJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-2" value="队列引擎&lt;div&gt;SetDataQueue&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="229" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMacgJBJh2qS4Xa9UJVJ-4" target="wMacgJBJh2qS4Xa9UJVJ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-4" value="vue适配层&lt;div&gt;createSetDataQueueMixin&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="250" width="160" height="60" as="geometry" />
+          <mxGeometry x="409" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMacgJBJh2qS4Xa9UJVJ-8" target="wMacgJBJh2qS4Xa9UJVJ-10">
           <mxGeometry relative="1" as="geometry" />
@@ -32,16 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-8" value="消费端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="629" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="629" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-10" value="readyCondition" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-14" value="triggerCondition" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-16" value="...新增场景" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="829" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="829" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
