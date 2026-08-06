@@ -114,7 +114,7 @@
           <mxGeometry x="44" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-35" value="COMPLETED&lt;div&gt;完成(移出&lt;span style=&quot;background-color: initial;&quot;&gt;PENDING&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="940" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
