@@ -96,10 +96,10 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-22" value="FAILED&lt;div&gt;失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="pPu3sISUKSSeYUQf8tjX-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="630" as="sourcePoint" />
-            <mxPoint x="120" y="580" as="targetPoint" />
+            <mxPoint x="109" y="630" as="sourcePoint" />
+            <mxPoint x="159" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
