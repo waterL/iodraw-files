@@ -22,8 +22,14 @@
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-4" value="vue适配" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wMacgJBJh2qS4Xa9UJVJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMacgJBJh2qS4Xa9UJVJ-8" target="wMacgJBJh2qS4Xa9UJVJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wMacgJBJh2qS4Xa9UJVJ-8" value="消费端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="629" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMacgJBJh2qS4Xa9UJVJ-10" value="readyCondition" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
