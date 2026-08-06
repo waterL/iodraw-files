@@ -68,7 +68,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-13" target="pPu3sISUKSSeYUQf8tjX-28">
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-13" target="pPu3sISUKSSeYUQf8tjX-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-13" value="PENDING&lt;div&gt;待处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,8 +91,8 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-22" value="FAILED&lt;div&gt;失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-28" value="PENDING&lt;div&gt;待处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-30" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;能否重试？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
