@@ -159,6 +159,11 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-52" target="pPu3sISUKSSeYUQf8tjX-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-54" value="提供" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pPu3sISUKSSeYUQf8tjX-53">
+          <mxGeometry x="0.1004" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-52" value="&lt;b&gt;priorityOrder&lt;/b&gt;&lt;div&gt;&lt;b&gt;优先级配置&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="750" width="120" height="60" as="geometry" />
         </mxCell>
