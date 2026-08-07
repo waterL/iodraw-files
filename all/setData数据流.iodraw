@@ -257,7 +257,7 @@
           <mxGeometry x="860" y="2150" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2580" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-84" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="2480" width="30" height="60" as="geometry" />
@@ -285,6 +285,9 @@
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-97" value="onload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="2398" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-98" value="队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
