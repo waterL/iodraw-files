@@ -206,11 +206,11 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-66" target="pPu3sISUKSSeYUQf8tjX-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-66" value="parseData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-66" value="parseData&lt;div&gt;缓存数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-68" value="setDataOfTaskConditionType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="609" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="609" y="1230" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
