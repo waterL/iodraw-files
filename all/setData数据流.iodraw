@@ -239,8 +239,14 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-76" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;setXXXXGroupData&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;底层组件设置数据&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1613" y="1230" width="171" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-78" target="pPu3sISUKSSeYUQf8tjX-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-78" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;_completed&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;= groupId&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;_processing = null&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;设置状态&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1864" y="1230" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-80" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;_completed&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;= groupId&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;_processing = null&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;设置状态&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2115" y="1230" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
