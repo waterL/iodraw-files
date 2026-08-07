@@ -183,13 +183,16 @@
           <mxGeometry x="629" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-57" value="&lt;b&gt;groupID:下一轮ID&lt;/b&gt;&lt;div&gt;&lt;b&gt;shouldSkip: 是否同分组&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1009" y="890" width="151" height="60" as="geometry" />
+          <mxGeometry x="993.5" y="890" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-59" value="&lt;b&gt;blocked&lt;/b&gt;&lt;div&gt;&lt;b&gt;当前ID===&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;_processing&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="803.5" y="890" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-61" value="&lt;b&gt;队列执行完成&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="629" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
