@@ -197,7 +197,7 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-63" value="setData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-64" value="setData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-64" value="重置逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
