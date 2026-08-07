@@ -197,8 +197,14 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-63" value="setData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-64" target="pPu3sISUKSSeYUQf8tjX-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-64" value="重置逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-66" value="重置逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
