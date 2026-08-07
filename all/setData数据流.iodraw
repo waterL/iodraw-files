@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="nCk2v9tI8Hu6b2FVAoKV">
-    <mxGraphModel dx="954" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,8 +274,16 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-92" value="前提条件&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;准备交易&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;交易条件&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;失效条件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="749" y="2360" width="110" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.068;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-90" target="pPu3sISUKSSeYUQf8tjX-92">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="2374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.017;exitY=0.111;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pPu3sISUKSSeYUQf8tjX-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="2420" as="sourcePoint" />
+            <mxPoint x="640" y="2370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
