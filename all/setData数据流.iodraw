@@ -243,10 +243,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-78" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;_completed&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;= groupId&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;_processing = null&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;设置状态&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1864" y="1230" width="171" height="60" as="geometry" />
+          <mxGeometry x="860" y="1723" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pPu3sISUKSSeYUQf8tjX-80" value="&lt;div&gt;&lt;b&gt;onGroupLoaded&lt;/b&gt;&lt;/div&gt;&lt;b&gt;等待onload回调&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2115" y="1230" width="171" height="60" as="geometry" />
+          <mxGeometry x="860" y="1830" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
