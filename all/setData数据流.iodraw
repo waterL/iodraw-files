@@ -209,7 +209,7 @@
         <mxCell id="pPu3sISUKSSeYUQf8tjX-66" value="parseData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPu3sISUKSSeYUQf8tjX-68" value="parseData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pPu3sISUKSSeYUQf8tjX-68" value="setDataOfTaskConditionType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="609" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
