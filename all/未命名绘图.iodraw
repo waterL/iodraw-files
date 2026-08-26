@@ -13,11 +13,17 @@
         <mxCell id="DnLwnRYwu-cwckGmYQNP-1" value="详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DnLwnRYwu-cwckGmYQNP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DnLwnRYwu-cwckGmYQNP-4" target="DnLwnRYwu-cwckGmYQNP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DnLwnRYwu-cwckGmYQNP-4" value="header" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DnLwnRYwu-cwckGmYQNP-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DnLwnRYwu-cwckGmYQNP-7" value="scrollContainer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnLwnRYwu-cwckGmYQNP-9" value="search-pager" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
