@@ -40,14 +40,20 @@
         <mxCell id="DnLwnRYwu-cwckGmYQNP-11" value="footer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="960" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DnLwnRYwu-cwckGmYQNP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DnLwnRYwu-cwckGmYQNP-13" target="DnLwnRYwu-cwckGmYQNP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DnLwnRYwu-cwckGmYQNP-13" value="BaseInfo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DnLwnRYwu-cwckGmYQNP-15" value="SaveFooter" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DnLwnRYwu-cwckGmYQNP-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnLwnRYwu-cwckGmYQNP-19" value="表单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
